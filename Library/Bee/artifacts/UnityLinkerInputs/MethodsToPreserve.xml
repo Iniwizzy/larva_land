@@ -1,0 +1,30 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="HalamanManager">
+			<method name="Play"/>
+			<method name="Play"/>
+		</type>
+		<type fullname="QuitManager">
+			<method name="CancelQuit"/>
+			<method name="QuitGame"/>
+		</type>
+		<type fullname="SceneManagement">
+			<method name="back"/>
+			<method name="credit"/>
+			<method name="game1"/>
+			<method name="game2"/>
+			<method name="game3"/>
+			<method name="intro"/>
+			<method name="next"/>
+			<method name="next"/>
+			<method name="next"/>
+			<method name="quit"/>
+		</type>
+		<type fullname="swipe_control">
+			<method name="GoToHome"/>
+			<method name="next"/>
+			<method name="PlayCurrentInstrumentSound"/>
+			<method name="prev"/>
+		</type>
+	</assembly>
+</linker>
