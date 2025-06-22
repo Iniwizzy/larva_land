@@ -41,14 +41,6 @@ A food-sorting educational game. Players must differentiate between traditional 
 
 ---
 
-## 👨‍💻 My Role
-
-I served as the **team leader** and was responsible for:
-- Project management and task delegation
-- Developing the first game (*Nusa Music*) and third game (*Larva Bites*)
-
----
-
 ## 📚 License
 
 This project is for educational and non-commercial use.
